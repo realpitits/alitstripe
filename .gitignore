@@ -1,4 +1,8 @@
 *.bat
+*.bsh
+*.csh
+*.ksh
 *.ps1
 *.py
 *.sh
+*.zsh
